@@ -1,4 +1,9 @@
 # FIFA-World-Cup-2026-LED
+
+## UPDATE ##
+  I ended up using a webscraper instead, as that is much faster than the API I was using before. Since we're watching live broadcasts, speed      matters more, and curiously, sometimes the webscraper was faster than the broadcasted signal on the TV.
+## UPDATE ##
+
 Simple API-driven program in Python, turning on an LED sequence via Arduino when a certain team scores. Written for Canada and Mexico.
 
 I was initially inspired by an old project that I wanted to create years ago for the Toronto Maple Leafs, a sort of DIY Budweiser Goal Light/Horn.
